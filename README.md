@@ -24,3 +24,11 @@ Một chatbot sử dụng kỹ thuật **Retrieval-Augmented Generation (RAG)** 
 git clone https://github.com/your-username/rag-chatbot.git
 cd rag-chatbot
 ```
+### 2. Thư viện 
+```bash
+pip install -r requirements.txt 
+```
+### 3. Chạy app
+```bash
+chainlit run app.py
+```
