@@ -21,7 +21,7 @@ Một chatbot sử dụng kỹ thuật **Retrieval-Augmented Generation (RAG)** 
 
 ### 1. Clone repo
 ```bash
-git clone https://github.com/your-username/rag-chatbot.git
+git clone https://github.com/Platypus27-coder/rag-chatbot.git
 cd rag-chatbot
 ```
 ### 2. Thư viện 
